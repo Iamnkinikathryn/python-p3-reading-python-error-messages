@@ -1,3 +1,6 @@
 #!/usr/bin/env python3
+#!/usr/bin/env python3
 
-assert(1 == 2)
+a = 5
+b = 5
+assert a == b
